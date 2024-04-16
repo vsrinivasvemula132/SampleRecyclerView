@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleRecyclerView</string>
+    <string name="safety_check">Safety Check</string>
+</resources>
